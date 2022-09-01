@@ -1,0 +1,20 @@
+.card-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+.detail-card {
+    width: 45%;
+    padding: 30px;
+    margin-bottom: 36px;
+    background-color: #fff;
+    border-radius: 4px;
+    box-shadow: 0px 0px 3px #ccc;
+    cursor: pointer;
+}
+
+@media (max-width: 991px) {
+    .detail-card {
+        width: 100%;
+    }
+  }

@@ -1,0 +1,11 @@
+header {
+    background-color: rgb(0 8 77);
+    padding: 20px 48px;
+    margin-bottom: 30px;
+}
+
+header nav a {
+    font-size: 36px;
+    color: #fff;
+    text-decoration: none;
+}
